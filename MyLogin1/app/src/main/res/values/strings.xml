@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLogin1</string>
+    <string name="user">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="login">登录</string>
+    <string name="attempt">Attempt: 5</string>>
+
+
+    <string name="user1">admin</string>
+    <string name="pwd1">admin123</string>
+
+    <string name="second_page_text">Welcome back!</string>
+</resources>
